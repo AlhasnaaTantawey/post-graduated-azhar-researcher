@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Personal_data"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="البيانات الشخصيه"
+        />
+<!--    <item-->
+<!--        android:id="@+id/navigation_expands"-->
+<!--        android:title="المصروفات"-->
+<!--        android:icon="@drawable/expands" />-->
+
+    <item
+        android:id="@+id/navigation_supervisors"
+        android:title="المشرفين"
+        android:icon="@drawable/superviors_icon" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_ResearcherRequests"-->
+<!--        android:title="الطلبات"-->
+<!--        android:icon="@drawable/ic_baseline_border_color_24" />-->
+    <item
+        android:id="@+id/navigation_instructions"
+        android:title="التعليمات"
+        android:icon="@drawable/instructions"/>
+
+</menu>
